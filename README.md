@@ -11,7 +11,7 @@ Contents will be regularly updated. Currently, we provide the full extent of syn
   - /test-environment: the testing environment containing scripts and runnable files to conduct the evaluation. Please notice that some configuration parameters listed at the beginning of BASH scripts might need to be changed according to the local machine in which tests are run.
 
 # Authors
-  - Core software development: Chiara Di Francescomarino (email: dfmchiara@fbk.eu)
+  - Core software development: Chiara Di Francescomarino (email: dfmchiara@fbk.eu; GitHub: https://github.com/dfmchiara)
   - Core software development: Fabrizio M. Maggi (email: f.m.maggi@ut.ee)
   - Testing and automations: Claudio Di Ciccio (email: claudio.di.ciccio@wu.ac.at; GitHub: https://github.com/cdc08x)
   - Software development adjunct: Taavi Kala (email: kala@ut.ee)
