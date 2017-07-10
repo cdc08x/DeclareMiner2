@@ -15,3 +15,9 @@ Contents will be regularly updated. Currently, we provide the full extent of syn
   - Core software development: Fabrizio M. Maggi (email: f.m.maggi@ut.ee)
   - Testing and automations: Claudio Di Ciccio (email: claudio.di.ciccio@wu.ac.at; GitHub: https://github.com/cdc08x)
   - Software development adjunct: Taavi Kala (email: kala@ut.ee)
+
+# Publications
+This software is the implementation of an approach which constitutes the main contribution of an article currently under review for publication on the Elsevier Information Systems journal (second round).
+The latest published paper describing the non-parallel variant of the software is:
+  - T. Kala, F. M. Maggi, C. Di Ciccio and C. Di Francescomarino, "Apriori and Sequence Analysis for Discovering Declarative Process Models," 2016 IEEE 20th International Enterprise Distributed Object Computing Conference (EDOC), Vienna, 2016, pp. 1-9.
+http://dx.doi.org/10.1109/EDOC.2016.7579378
