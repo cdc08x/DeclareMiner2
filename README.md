@@ -5,9 +5,13 @@ It is developed in Java (v.8), tested on Windows and Ubuntu Linux platforms. Tes
 
 # Contents
 Contents will be regularly updated. Currently, we provide the full extent of synthetic event logs and performance evaluation material.
+To see how to launch DeclareMiner2, please read and make use of the launch script "run-DeclareMiner2-example.sh". The "config.properties.example" configuration file contains the parameters with which DeclareMiner2 is run by the script, as well as comments explaining the values that variables can be assigned with.
+
+A brief explanation of the directories' contents follow.
   - /evaluation: in this directory all time performance and memory usage reports are stored. The results were gathered from runs on a Ubuntu Linux 12.04 server machine, equipped with Intel Xeon CPU E5-2650 v2 2.60GHz, using eight 64-bit CPU cores and 16GB main memory quota.
   - /event-logs: synthetic event logs used for performance evaluation. Logs were generated with the MINERful declarative process mining toolkit (https://github.com/cdc08x/MINERful). For the sake of space saving, logs are provided within a compressed ZIP package. A BASH script is provided to automatically unzip the file contents into the "synthetic" subdirectory.
   - /jars: the JAR packages containing the implemented software prototype in three different variants (sequential, parallelised over the search space, and parallelised over the database).
+  - /output: example output files.
   - /test-environment: the testing environment containing scripts and runnable files to conduct the evaluation. Please notice that some configuration parameters listed at the beginning of BASH scripts might need to be changed according to the local machine in which tests are run.
 
 # Authors
