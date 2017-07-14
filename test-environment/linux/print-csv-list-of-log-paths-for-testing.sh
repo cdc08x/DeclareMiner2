@@ -7,7 +7,7 @@ if [ $# -lt 2 ]; then
   exit
 fi
 
-PATH_FROM_HERE_TO_LOGS="../../../../logs"
+PATH_FROM_HERE_TO_LOGS="../../event-logs"
 PATH_FROM_RUNNING_JAR_TO_LOGS="../$PATH_FROM_HERE_TO_LOGS"
 SYNTHETIC_LOGS_SUBDIR="synthetic"
 BENCMARK_LOGS_SUBDIR="bpi_challenges-selected"
