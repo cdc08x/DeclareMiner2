@@ -1,0 +1,2 @@
+'version'; 'constraints'; 'alpha'; 'support'; 'mode'; 'file'; 'time' 
+v1; [Response, Alternate_Response, Alternate_Succession, Alternate_Precedence, Existence, Chain_Precedence, Chain_Succession, Precedence, Succession, Absence2, Init, Chain_Response, Responded_Existence]; 0; 90; replayers; alpha_16_minlen_16_maxlen_16_size_1600.mxml; 2767.0

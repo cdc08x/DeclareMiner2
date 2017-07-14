@@ -1,0 +1,138 @@
+'e-complete' is executed at least once.
+
+witnesses (100.00% of cases, 1600 cases in total)
+counter examples (0.00% of cases, 0 cases in total)
+vacuous cases (0.00% of cases, 0 cases in total)
+
+'h-complete' is executed at least once.
+
+witnesses (98.25% of cases, 1572 cases in total)
+counter examples (1.75% of cases, 28 cases in total)
+vacuous cases (0.00% of cases, 0 cases in total)
+
+'k-complete' is executed at least once.
+
+witnesses (92.69% of cases, 1483 cases in total)
+counter examples (7.31% of cases, 117 cases in total)
+vacuous cases (0.00% of cases, 0 cases in total)
+
+'h-complete' is preceded by 'e-complete'. 'h-complete' happens only after 'e-complete' had happened.
+
+witnesses (98.25% of cases, 1572 cases in total)
+counter examples (0.00% of cases, 0 cases in total)
+vacuous cases (1.75% of cases, 28 cases in total)
+
+'k-complete' is preceded by 'e-complete'. 'k-complete' happens only after 'e-complete' had happened.
+
+witnesses (92.69% of cases, 1483 cases in total)
+counter examples (0.00% of cases, 0 cases in total)
+vacuous cases (7.31% of cases, 117 cases in total)
+
+'t-complete' happens at most once.
+
+witnesses (95.13% of cases, 1522 cases in total)
+counter examples (4.88% of cases, 78 cases in total)
+vacuous cases (0.00% of cases, 0 cases in total)
+
+'x-complete' happens at most once.
+
+witnesses (90.44% of cases, 1447 cases in total)
+counter examples (9.56% of cases, 153 cases in total)
+vacuous cases (0.00% of cases, 0 cases in total)
+
+'5-complete' happens at most once.
+
+witnesses (93.69% of cases, 1499 cases in total)
+counter examples (6.31% of cases, 101 cases in total)
+vacuous cases (0.00% of cases, 0 cases in total)
+
+'7-complete' happens at most once.
+
+witnesses (98.13% of cases, 1570 cases in total)
+counter examples (1.88% of cases, 30 cases in total)
+vacuous cases (0.00% of cases, 0 cases in total)
+
+'1-complete' happens at most once.
+
+witnesses (92.63% of cases, 1482 cases in total)
+counter examples (7.38% of cases, 118 cases in total)
+vacuous cases (0.00% of cases, 0 cases in total)
+
+'3-complete' happens at most once.
+
+witnesses (92.50% of cases, 1480 cases in total)
+counter examples (7.50% of cases, 120 cases in total)
+vacuous cases (0.00% of cases, 0 cases in total)
+
+'s-complete' happens at most once.
+
+witnesses (93.63% of cases, 1498 cases in total)
+counter examples (6.38% of cases, 102 cases in total)
+vacuous cases (0.00% of cases, 0 cases in total)
+
+'4-complete' happens at most once.
+
+witnesses (92.81% of cases, 1485 cases in total)
+counter examples (7.19% of cases, 115 cases in total)
+vacuous cases (0.00% of cases, 0 cases in total)
+
+'0-complete' happens at most once.
+
+witnesses (97.81% of cases, 1565 cases in total)
+counter examples (2.19% of cases, 35 cases in total)
+vacuous cases (0.00% of cases, 0 cases in total)
+
+'2-complete' happens at most once.
+
+witnesses (94.31% of cases, 1509 cases in total)
+counter examples (5.69% of cases, 91 cases in total)
+vacuous cases (0.00% of cases, 0 cases in total)
+
+'6-complete' happens at most once.
+
+witnesses (93.38% of cases, 1494 cases in total)
+counter examples (6.63% of cases, 106 cases in total)
+vacuous cases (0.00% of cases, 0 cases in total)
+
+'e-complete' is the first activity to be executed.
+
+witnesses (100.00% of cases, 1600 cases in total)
+counter examples (0.00% of cases, 0 cases in total)
+vacuous cases (0.00% of cases, 0 cases in total)
+
+Unknown template: Responded_Existence
+
+witnesses (98.25% of cases, 1572 cases in total)
+counter examples (1.75% of cases, 28 cases in total)
+vacuous cases (0.00% of cases, 0 cases in total)
+
+Unknown template: Responded_Existence
+
+witnesses (91.00% of cases, 1456 cases in total)
+counter examples (7.25% of cases, 116 cases in total)
+vacuous cases (1.75% of cases, 28 cases in total)
+
+Unknown template: Responded_Existence
+
+witnesses (92.69% of cases, 1483 cases in total)
+counter examples (7.31% of cases, 117 cases in total)
+vacuous cases (0.00% of cases, 0 cases in total)
+
+Unknown template: Responded_Existence
+
+witnesses (91.00% of cases, 1456 cases in total)
+counter examples (1.69% of cases, 27 cases in total)
+vacuous cases (7.31% of cases, 117 cases in total)
+
+Unknown template: Responded_Existence
+
+witnesses (92.69% of cases, 1483 cases in total)
+counter examples (0.00% of cases, 0 cases in total)
+vacuous cases (7.31% of cases, 117 cases in total)
+
+Unknown template: Responded_Existence
+
+witnesses (98.25% of cases, 1572 cases in total)
+counter examples (0.00% of cases, 0 cases in total)
+vacuous cases (1.75% of cases, 28 cases in total)
+
